@@ -9,8 +9,13 @@ body {
   margin: 0;
 }
 
-.blue {
+.blue,
+.yellow,
+.light_blue {
   border: 1px solid #e75551;
+}
+
+.blue {
   background-color: #308dc0;
   padding: 10px;
   margin: 0 0 40px;
@@ -18,13 +23,11 @@ body {
 }
 
 .yellow {
-  border: 1px solid #e75551;
   background-color: #ffa500;
   padding: 10px;
 }
 
 .light_blue {
-  border: 1px solid #e75551;
   background-color: #ddd;
   padding: 10px;
 }
