@@ -13,23 +13,21 @@ body {
 .yellow,
 .light_blue {
   border: 1px solid #e75551;
+  padding: 10px;
 }
 
 .blue {
   background-color: #308dc0;
-  padding: 10px;
   margin: 0 0 40px;
   width: 350px;
 }
 
 .yellow {
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .light_blue {
   background-color: #ddd;
-  padding: 10px;
 }
 
 .description {
